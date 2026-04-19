@@ -15,7 +15,7 @@ st.markdown("""
     <style>
     .main { background-color: #000814; color: #00FF41; }
     .user-name { text-align: right; color: #00FF41; font-family: 'Courier New', monospace; 
-                 font-size: 1.3rem; font-weight: bold; margin-top: -45px; }
+                 font-size: 1.3rem; font-weight: bold; margin-top: -0px; }
     [data-testid="stMetric"] { border: 2px solid #00FF41; border-radius: 12px; padding: 18px !important; 
                                background-color: #001d3d; box-shadow: 0 0 20px #00FF41; }
     [data-testid="stMetricValue"] { color: #00FF41 !important; font-family: 'Courier New', monospace; font-size: 1.5rem; }
